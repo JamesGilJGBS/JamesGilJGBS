@@ -1,6 +1,9 @@
 ### Hello, welcome to my repositories!
 #### Oi, bem vindo a meus repositórios!
 
+##### Graduated in Electrical Engineering, specializing in Electronics, specializing in Artificial Intelligence and Machine Learning.
+###### Graduado em Engenharia Elétrica, com especialização em Eletrônica, especializando em Inteligência Artificial e Aprendizado de Máquina.
+
 <a target="_blank" href="https://www.linkedin.com/in/jgbs/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
