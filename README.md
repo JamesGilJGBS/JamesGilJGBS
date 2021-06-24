@@ -10,5 +10,5 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-##### Graduated in Electrical Engineering and Electronics, specializing in Artificial Intelligence and Machine Learning.
+<a ##### Graduated in Electrical Engineering and Electronics, specializing in Artificial Intelligence and Machine Learning. /a>
 ###### Graduado em Engenharia Elétrica e Eletrônica, especializando em Inteligência Artificial e Aprendizado de Máquina.
