@@ -1,4 +1,6 @@
-### Hello, welcome to my repositories 👋
+### Hello, welcome to my repositories!
+## Oi, bem vindo a meus repositórios!
+
 <a target="_blank" href="https://www.linkedin.com/in/jgbs/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
