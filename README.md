@@ -9,5 +9,6 @@
 <a target="_blank" href="mailto:jamesgil.sousa@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+
 ##### Graduated in Electrical Engineering and Electronics, specializing in Artificial Intelligence and Machine Learning.
 ###### Graduado em Engenharia Elétrica e Eletrônica, especializando em Inteligência Artificial e Aprendizado de Máquina.
