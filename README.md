@@ -6,6 +6,8 @@
 
 jamesgil.sousa@gmail.com
 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="jgbs" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/jgbs?trk=profile-badge">James Gil</a></div>
+              
 ### Hello, welcome to my repositories!
 #### Oi, bem vindo a meus repositórios!
 ##### Graduated in Electrical Engineering and Electronics, specializing in Artificial Intelligence and Machine Learning.
