@@ -6,7 +6,7 @@
 
 jamesgil.sousa@gmail.com
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+[<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>]
 
 ### Hello, welcome to my repositories!
 #### Oi, bem vindo a meus repositórios!
