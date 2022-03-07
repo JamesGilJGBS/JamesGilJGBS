@@ -7,6 +7,4 @@
 jamesgil.sousa@gmail.com
         
 ### Hello, welcome to my repositories!
-#### Oi, bem vindo a meus repositórios!
-##### Graduated in Electrical Engineering and Electronics, specializing in Artificial Intelligence and Machine Learning.
-###### Graduado em Engenharia Elétrica e Eletrônica, especializando em Inteligência Artificial e Aprendizado de Máquina.
+##### Graduated in Electrical Engineering and Electronics, specializer in Artificial Intelligence and Machine Learning.
